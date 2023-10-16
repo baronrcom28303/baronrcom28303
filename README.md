@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @baronrcom28303
+- 👋 Hi, I’m Baron 
 - 👀 I’m interested in FullStack and Software Engineer 
 - 🌱 I’m currently learning Java, Python, C/C++, C#, Ruby, JavaScript
 - 💞️ I’m looking to collaborate on ...
